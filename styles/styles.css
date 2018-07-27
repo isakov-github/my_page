@@ -1,3 +1,35 @@
+#header {
+  background-color: #3B3738;
+  color: White;
+  text-align: center;
+  padding: 10px;
+  margin: 0;
+}
+
+#main_menu {
+  float: left;
+  width: 200px;
+}
+
+#main_menu ul {
+  list-style-type: none;
+  padding: none;
+}
+
+#content {
+  float: left;
+  width: 500px;
+  text-align: justify;
+}
+
+#footer {
+  background-color: #7E8F7C;
+  clear: both;
+  text-align: center;
+}
+
 body {
-  background-color: powderblue;
+  background-color: #FDF3E7;
+  padding: 0;
+  margin: 0;
 }
